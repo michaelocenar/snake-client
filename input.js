@@ -1,5 +1,3 @@
-
-
 let connection;
 
 const handleUserInput = function (data) {
